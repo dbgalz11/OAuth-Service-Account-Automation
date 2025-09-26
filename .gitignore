@@ -1,0 +1,14 @@
+# PowerShell
+*.ps1xml
+
+# Azure
+.azure/
+
+# Secrets (just in case)
+*secret*
+*token*
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
